@@ -5,26 +5,25 @@ Welcome to the Android Club Final Project, a React Native application that offer
 ## Screenshots
 
 ### Sign-Up Screen
-<img src="https://github.com/Geoffrey-Anto/ac-final-project/assets/91791834/daff168f-d0db-4e8b-bee8-d7361b87a4b8" alt="Image 1" width="300" height="700">
+<img src="https://github.com/Geoffrey-Anto/android-club-final-project/assets/91791834/653bed0a-7a5a-488d-afd5-a8d592ec1ef3" alt="Image 1" width="300" height="700">
 
 ### Sign-In Screen
-<img src="https://github.com/Geoffrey-Anto/ac-final-project/assets/91791834/f67eb725-50ce-4f65-8515-9828fbdf3e9a" alt="Image 2" width="300" height="700">
+<img src="https://github.com/Geoffrey-Anto/android-club-final-project/assets/91791834/85b335c8-a87a-452a-8152-5c909a552886" alt="Image 2" width="300" height="700">
 
 ### Movies Screen
-<img src="https://github.com/Geoffrey-Anto/ac-final-project/assets/91791834/77950ab2-915f-4e6b-9a5a-30930741f3a9" alt="Image 3" width="300" height="700">
+<img src="https://github.com/Geoffrey-Anto/android-club-final-project/assets/91791834/8af63aee-0613-440b-b16a-1f5cf02e2a7c" alt="Image 3" width="300" height="700">
 
 ### Movie Detail Screen
-<img src="https://github.com/Geoffrey-Anto/ac-final-project/assets/91791834/61ae070f-9894-4984-b7d7-50126f18ae0d" alt="Image 4" width="300" height="700">
+<img src="https://github.com/Geoffrey-Anto/android-club-final-project/assets/91791834/c8247844-95da-43e3-9dbe-e8b7dcb0f602" alt="Image 4" width="300" height="700">
 
 ### Random Watch Screen
-<img src="https://github.com/Geoffrey-Anto/ac-final-project/assets/91791834/b15a89f8-c952-4bd7-bc17-f7387b0beaa7" alt="Image 4" width="300" height="700">
+<img src="https://github.com/Geoffrey-Anto/android-club-final-project/assets/91791834/5dbe7e06-7cd4-40e3-8022-b2e72064ff2b" alt="Image 4" width="300" height="700">
 
 ### Upcoming Movies Screen
-<img src="https://github.com/Geoffrey-Anto/ac-final-project/assets/91791834/b3a4765b-94f4-4dfc-8815-d7f2cc363ab6" alt="Image 4" width="300" height="700">
-
+<img src="https://github.com/Geoffrey-Anto/android-club-final-project/assets/91791834/a5a48722-bf46-4ea7-86c5-c69dd30291ed" alt="Image 4" width="300" height="700">
 
 ### Account Screen
-<img src="https://github.com/Geoffrey-Anto/ac-final-project/assets/91791834/83682a2f-a04a-45d1-b2fd-dccf04ae745b" alt="Image 5" width="300" height="700">
+<img src="https://github.com/Geoffrey-Anto/android-club-final-project/assets/91791834/2f198fc1-da11-43d9-be99-782060fd21c3" alt="Image 5" width="300" height="700">
 
 ## Getting Started
 

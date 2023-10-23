@@ -3,7 +3,7 @@
 Welcome to the Android Club Final Project, a React Native application that offers various features, including sign-up, sign-in, movies browsing, movie details, and account management. You can also see upcoming movies and also Random Watch for this day. This readme provides a comprehensive guide on setting up and running the project.
 
 ## Screenshots
-
+ 
 ### Sign-Up Screen
 <img src="https://github.com/Geoffrey-Anto/android-club-final-project/assets/91791834/653bed0a-7a5a-488d-afd5-a8d592ec1ef3" alt="Image 1" width="300" height="700">
 
@@ -24,6 +24,9 @@ Welcome to the Android Club Final Project, a React Native application that offer
 
 ### Account Screen
 <img src="https://github.com/Geoffrey-Anto/android-club-final-project/assets/91791834/2f198fc1-da11-43d9-be99-782060fd21c3" alt="Image 5" width="300" height="700">
+
+### Video Walkthrough
+<video src="https://github.com/Geoffrey-Anto/android-club-final-project/assets/91791834/f33eb8c4-cef3-4312-b59e-fe1ab746aeec" width="300" height="700" autoplay>
 
 ## Getting Started
 

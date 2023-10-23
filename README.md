@@ -25,9 +25,6 @@ Welcome to the Android Club Final Project, a React Native application that offer
 ### Account Screen
 <img src="https://github.com/Geoffrey-Anto/android-club-final-project/assets/91791834/2f198fc1-da11-43d9-be99-782060fd21c3" alt="Image 5" width="300" height="700">
 
-### Video Walkthrough
-<video src="https://github.com/Geoffrey-Anto/android-club-final-project/assets/91791834/f33eb8c4-cef3-4312-b59e-fe1ab746aeec" width="300" height="700" autoplay>
-
 ## Getting Started
 
 Follow these steps to set up and run the React Native CLI app:
@@ -92,3 +89,8 @@ Follow these steps to set up and run the React Native CLI app:
 - **Team Member 3**
   - GitHub: Khaushik P
   - Email: 21BPS1537
+    
+
+### Video Walkthrough
+
+<video src="https://github.com/Geoffrey-Anto/android-club-final-project/assets/91791834/f33eb8c4-cef3-4312-b59e-fe1ab746aeec" width="300" height="700" />
